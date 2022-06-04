@@ -1,4 +1,4 @@
-![SmartHarz Logo](https://github.com/SmartHarz/.github/blob/main/images/ttn-smartharz-logo-v1.png)
+![SmartHarz Logo](../images/logo-smartharz.png)
 # SmartHarz (German Intro|[English below](#smartharz-english-intro))
 ## Wir machen den Harz Smart! 
 
