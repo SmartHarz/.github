@@ -1,6 +1,6 @@
 # SmartHarz
 
-![SmartHarz Logo](../images/logo-smartharz.png)
+![SmartHarz Logo](https://github.com/SmartHarz/.github/blob/6f4e632223cebf1f08c071a1062ae239d766ba38/images/logo-smartharz.png)
 
 ## Wir machen den Harz Smart (German Intro|[English below](#we-develop-a-smart-harz-region-english-intro)
 
