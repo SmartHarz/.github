@@ -1,6 +1,8 @@
+# SmartHarz
+
 ![SmartHarz Logo](../images/logo-smartharz.png)
-# SmartHarz (German Intro|[English below](#smartharz-english-intro))
-## Wir machen den Harz Smart! 
+
+## Wir machen den Harz Smart (German Intro|[English below](#we-develop-a-smart-harz-region-english-intro)
 
 Wir sind eine Initiative die  in der Region Harz den Ausbau einer redundanten LoRaWAN-Infrastruktur vorantreibt.
 Momentan arbeiten wir bereits eng mit der Stadt Goslar und den Feuerwehren des Stadtverbandes zusammen.
@@ -15,8 +17,8 @@ Im Rahmen unserer Arbeit bieten wir auch Workshops zu den Themen Automatisierung
 Die Ergebnisse unserer Arbeit werden zukünftig hier unter Open Source Software (OSS) und Open Source Hardware Lizenzen bereitgestellt.
 Das Erstellen von Forks und die Mitarbeit in Form von Pull Requests ist ausdrücklich gewünscht. Fehler und Fragen können an den entsprechenden Repos gerne in Form von Issues platziert werden.
 
-# SmartHarz (English Intro)
-## We develop a Smart Harz region! 
+## We develop a Smart Harz region (English Intro)
+
 We are an initiative driving a redundant and well maintained LoRaWAN infrastructure for the Harz region.
 Currently we are already working closely with the City of Goslar and the fire departments of Goslar.
 
